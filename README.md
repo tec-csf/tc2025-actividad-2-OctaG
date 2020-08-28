@@ -1,4 +1,6 @@
-### Iterador genérico 
+### Iterador genérico
+
+![Banner](Banner.png)
 
 #### Descripción
 Implementación de  un iterador genérico utilizando estructuras, memoria dinámica
